@@ -1,3 +1,12 @@
+# Added by hand
+./timeseries/scratch.py
+./*~
+./*/*~
+./database/**/*
+./database/.*
+./database/*.*
+./database/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

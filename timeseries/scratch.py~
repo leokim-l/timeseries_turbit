@@ -1,0 +1,4 @@
+import os
+
+local_db = os.path.dirname(os.path.realpath(__main__))
+print(local_db)

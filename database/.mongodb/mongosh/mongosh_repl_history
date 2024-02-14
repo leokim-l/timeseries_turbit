@@ -1,0 +1,73 @@
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.findOne({turb_id:1})                                                               
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+use turbine_data
+show dbs
+list db
+db list
+use admin 
+schema(db.Collection)
+use turbine_data
+use admin 
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+db.Collection.findOne({turb_id:1})
+db.Collection.deleteMany({})
+schema(db.Collection)
+Date()
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+db.Collection.findOne({turb_id:1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+db.Collection.findOne({turb_id:1})
+db.Collection.find_one({"turb_id":1})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+use turbine_data
+use admin 
+use test
+use turbine_data
+use admin
+schema(db.Collection)
+db.Collection.deleteMany({})
+schema(db.Collection)
+schema(turbine_data.Collection)
+schema(db.Collection)
+use turbine_data
+show dbs
+use admin
+admin
+show dbs
+showdb
+db.Collection.deleteMany({})
+db.Collection.deleteMany()
+schema(db.Collection)
+schema(turbine_data.Collection)
+schema(db.turbine_data)
+snippet install analyze-schema
+use turbine_data
+show dbs
+use admin
