@@ -1,4 +1,4 @@
-# Small project about developing APIs for Turbi
+# Small project about developing APIs for Turbit
 
 ## Task descritpion (refer to DESCRIPTION.md for more details):
 Time Series Data Handling and API Development
