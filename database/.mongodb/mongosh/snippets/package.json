@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@mongosh/snippet-analyze-schema": "^1.0.5",
-    "npm": "*"
-  }
-}
